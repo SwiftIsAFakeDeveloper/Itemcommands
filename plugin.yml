@@ -1,0 +1,10 @@
+---
+name: ItemCommands
+version: 1.0.0
+api:
+- 3.1.1
+author: Az928
+main: ItemCommands\Core
+description: "Add commands on certain items and execute them on tap"
+
+...
